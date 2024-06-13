@@ -144,7 +144,7 @@ input:checked + .slider:before {
   font-family: "Source Code Pro";
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: shine 300s infinite linear;
+  animation: shine 40s infinite linear;
   animation-fill-mode: forwards;
   -webkit-text-size-adjust: none;
   font-weight: 600;
