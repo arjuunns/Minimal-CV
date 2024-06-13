@@ -15,7 +15,7 @@ button.addEventListener("click", function (e) {
   } else {
     body.style.color = "white";
     body.style.background =
-      "radial-gradient(circle, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%)"; // Dark mode
+      "radial-gradient(circle, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 100%);"; // Dark mode
     body.style.backgroundSize = "cover";
     links.forEach((link) => {
       link.style.color = "rgb(72, 146, 220)";
